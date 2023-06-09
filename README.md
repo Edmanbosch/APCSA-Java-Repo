@@ -5,7 +5,7 @@
 - Uses arrays and for loops to generate simple patterns.
 
 ## Quiz Project
-- Uses a loop and a switch statement to run the quiz.
+- Uses a while loop and a switch statement to run the quiz.
 - Each question is represented by an object that contains the question's data and a few helper functions. 
 - Uses a class with a static method to obtain user input.
 
