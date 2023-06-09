@@ -1,8 +1,8 @@
 # APCSA Java Repo
 ## Graphics Intro
-- Uses Swing.
+- Uses Swing and AWT to display simple shapes and patterns.
 - Incorporates classes and inheritance.
-- Uses arrays and for loops to generate simple patterns.
+- Uses arrays and for loops to generate patterns.
 
 ## Quiz Project
 - Uses a while loop and a switch statement to run the quiz.
